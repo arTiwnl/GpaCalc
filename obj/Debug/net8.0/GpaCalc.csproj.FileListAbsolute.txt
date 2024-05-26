@@ -12,3 +12,4 @@
 /home/carvalhoarthur/dev/repos/GpaCalc/obj/Debug/net8.0/GpaCalc.pdb
 /home/carvalhoarthur/dev/repos/GpaCalc/obj/Debug/net8.0/GpaCalc.genruntimeconfig.cache
 /home/carvalhoarthur/dev/repos/GpaCalc/obj/Debug/net8.0/ref/GpaCalc.dll
+/home/carvalhoarthur/dev/repos/GpaCalc/obj/Debug/net8.0/GpaCalc.sourcelink.json

@@ -1,0 +1,14 @@
+/home/carvalhoarthur/dev/repos/GpaCalc/bin/Debug/net8.0/GpaCalc
+/home/carvalhoarthur/dev/repos/GpaCalc/bin/Debug/net8.0/GpaCalc.deps.json
+/home/carvalhoarthur/dev/repos/GpaCalc/bin/Debug/net8.0/GpaCalc.runtimeconfig.json
+/home/carvalhoarthur/dev/repos/GpaCalc/bin/Debug/net8.0/GpaCalc.dll
+/home/carvalhoarthur/dev/repos/GpaCalc/bin/Debug/net8.0/GpaCalc.pdb
+/home/carvalhoarthur/dev/repos/GpaCalc/obj/Debug/net8.0/GpaCalc.GeneratedMSBuildEditorConfig.editorconfig
+/home/carvalhoarthur/dev/repos/GpaCalc/obj/Debug/net8.0/GpaCalc.AssemblyInfoInputs.cache
+/home/carvalhoarthur/dev/repos/GpaCalc/obj/Debug/net8.0/GpaCalc.AssemblyInfo.cs
+/home/carvalhoarthur/dev/repos/GpaCalc/obj/Debug/net8.0/GpaCalc.csproj.CoreCompileInputs.cache
+/home/carvalhoarthur/dev/repos/GpaCalc/obj/Debug/net8.0/GpaCalc.dll
+/home/carvalhoarthur/dev/repos/GpaCalc/obj/Debug/net8.0/refint/GpaCalc.dll
+/home/carvalhoarthur/dev/repos/GpaCalc/obj/Debug/net8.0/GpaCalc.pdb
+/home/carvalhoarthur/dev/repos/GpaCalc/obj/Debug/net8.0/GpaCalc.genruntimeconfig.cache
+/home/carvalhoarthur/dev/repos/GpaCalc/obj/Debug/net8.0/ref/GpaCalc.dll
